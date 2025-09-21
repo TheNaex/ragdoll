@@ -1,0 +1,2 @@
+require('./ragdoll/ragdoll.js');
+
