@@ -3,7 +3,13 @@
 Este proyecto ha sido creado como una **forma de testeo** en RageMP.  
 Su uso es **libre** y está en constante mejora.
 
-Actualmente se está trabajando en lograr una **transición más realista** al levantarse desde el estado de ragdoll, ya que por ahora el personaje se pone de pie de forma **instantánea** en lugar de hacerlo con una animación fluida.
+Actualmente se está trabajando en lograr una **transición más realista** al levantarse desde el estado de ragdoll, ya que por ahora el personaje se pone de pie de forma poco **fluida** en lugar de hacerlo como corresponde
+---
+## ✨ Version 0.1
+Separación de la lógica del ragdoll en cliente y servidor para mayor modularidad.
+Implementación de control de duración del ragdoll con variable configurable.
+Ahora no podremos usar el ragdoll en vehiculos
+Se ha mejorado la forma en que el personaje se levanta del Ragdoll
 
 ---
 
