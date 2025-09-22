@@ -35,3 +35,7 @@ mp.events.add('updateRagdollState', (playerHandle, state) => {
         }
     }
 });
+
+
+
+
