@@ -37,7 +37,8 @@ Se ha mejorado la forma en que el personaje se levanta del Ragdoll
 ## 🔮 Próximos cambios
 - [ ] Implementar una transición fluida al levantarse del ragdoll.  
 - [ ] No se realizara ragdoll al escribir en el chat
-- [ ] Posible integración con sistemas de rol (heridas, caídas, etc.).  
+- [ ] Posible integración con sistemas de rol (heridas, caídas, etc.).
+- [ ] Configuración Dinámica (Permitir ajustar la duración vía comando o archivo de configuración).
 
 ---
 
